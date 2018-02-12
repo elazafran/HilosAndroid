@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pruebas de layout</string>
+    <string name="para">para</string>
+    <string name="asunto">asunto</string>
+    <string name="mensaje">mensaje</string>
+    <string name="enviar">enviar</string>
+    <string name="texto">texto</string>
+    <string name="texto1">texto 1</string>
+    <string name="texto2">texto 2</string>
+    <string name="texto3">texto 3</string>
+    <string name="texto4">texto 4</string>
+    <string name="texto5">texto 5</string>
+
+    <string name="contenido">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque esse illo laborum minima quis sapiente ullam! Aliquid incidunt iste magni minima molestiae quas quia quos repudiandae voluptatem voluptatum? Distinctio, soluta? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fugit illum ipsam itaque, modi nulla voluptatum. Atque beatae error est fuga impedit itaque perspiciatis praesentium provident quae, quis quos ut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae consectetur dignissimos ea est et laboriosam voluptatem. Ad consequuntur dicta eligendi enim et facilis magni modi possimus sit, voluptates voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque esse illo laborum minima quis sapiente ullam! Aliquid incidunt iste magni minima molestiae quas quia quos repudiandae voluptatem voluptatum? Distinctio, soluta? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fugit illum ipsam itaque, modi nulla voluptatum. Atque beatae error est fuga impedit itaque perspiciatis praesentium provident quae, quis quos ut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae consectetur dignissimos ea est et laboriosam voluptatem. Ad consequuntur dicta eligendi enim et facilis magni modi possimus sit, voluptates voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque esse illo laborum minima quis sapiente ullam! Aliquid incidunt iste magni minima molestiae quas quia quos repudiandae voluptatem voluptatum? Distinctio, soluta? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fugit illum ipsam itaque, modi nulla voluptatum. Atque beatae error est fuga impedit itaque perspiciatis praesentium provident quae, quis quos ut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae consectetur dignissimos ea est et laboriosam voluptatem. Ad consequuntur dicta eligendi enim et facilis magni modi possimus sit, voluptates voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque esse illo laborum minima quis sapiente ullam! Aliquid incidunt iste magni minima molestiae quas quia quos repudiandae voluptatem voluptatum? Distinctio, soluta? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis fugit illum ipsam itaque, modi nulla voluptatum. Atque beatae error est fuga impedit itaque perspiciatis praesentium provident quae, quis quos ut? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae consectetur dignissimos ea est et laboriosam voluptatem. Ad consequuntur dicta eligendi enim et facilis magni modi possimus sit, voluptates voluptatibus.</string>
+
+</resources>

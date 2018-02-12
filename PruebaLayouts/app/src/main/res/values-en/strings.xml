@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proof layout</string>
+    <string name="para">to</string>
+    <string name="asunto">subject</string>
+    <string name="mensaje">mesaje</string>
+    <string name="enviar">submit</string>
+</resources>
